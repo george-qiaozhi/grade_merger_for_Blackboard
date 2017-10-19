@@ -1,4 +1,4 @@
-# Merge grade from CSCE1030 lab sections to main sections
+### Merge grade from CSCE1030 lab sections to main sections
 
 ## HOW-TO-USE
 
