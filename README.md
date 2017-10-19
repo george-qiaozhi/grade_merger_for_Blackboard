@@ -1,4 +1,5 @@
-### Merge grade from CSCE1030 lab sections to main sections
+# Blackboard Grade Merger
+Merge grades from CSCE1030 lab sections to main sections
 
 ## HOW-TO-USE
 
