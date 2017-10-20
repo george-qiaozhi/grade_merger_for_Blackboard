@@ -1,5 +1,5 @@
 # Blackboard Grades Merger
-This python scripts is to merge grades from CSCE1030 lab sections to main sections. It took Blackboard (BB) `.csv` file from lab sections as input, load grades into a **pandas** dataframe, then merge the grade to main section's `.csv` file. 
+This python scripts is to merge grades from CSCE1030 lab sections to main sections. It took Blackboard (BB) `.csv` file from lab sections as input, load grades into a **pandas** dataframe, then merge the grade to main section's `.csv` file. Use cautious when you use any open source programs, including this one. 
 - The script uses "*Username*" aka EUID as common key for database-like join operation. 
 - Uses `os.path.join()` for the file path for OS independent.
 - Uses `os.listdir()` to collect files in same directory, so NO need to rename files after download.
